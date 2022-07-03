@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    background-color: rgb(17, 222, 236);
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+.blog {
+    background-color: rgb(61, 60, 60);
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+.blog p{
+    text-align: justify;
+    margin: 0;
+}
+
+.blog h2 {
+    color: chartreuse;
+    margin: 5px;
+}
+
+.blog small {
+    color: aqua;
+    margin-bottom: 5px;
+}
